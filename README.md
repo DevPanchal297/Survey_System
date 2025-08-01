@@ -14,7 +14,7 @@ Survey_System is a .NET 8 Console Application designed to manage and conduct sur
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Survey_System.git
+   git clone https://github.com/DevPanchal297/Survey_System.git
    cd Survey_System/Survey_System/Survey_System
    ```
 2. **Build the project:**
